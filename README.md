@@ -14,3 +14,7 @@ Recursion
 Basic debugging
 Time and space complexity
 Basic problem-solving
+
+C)
+
+D)
